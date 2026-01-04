@@ -1,4 +1,4 @@
-const CACHE_NAME = "entgelt-pwa-v1";
+const CACHE_NAME = "entgelt-pwa";
 const ASSETS = [
   "./",
   "./manifest.json"
